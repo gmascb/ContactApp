@@ -79,4 +79,10 @@ c:\users\pc\documents\visual studio 2015\Projects\ContactApp\ContactApp\bin\Micr
 c:\users\pc\documents\visual studio 2015\Projects\ContactApp\ContactApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 c:\users\pc\documents\visual studio 2015\Projects\ContactApp\ContactApp\obj\Debug\ContactApp.dll
 c:\users\pc\documents\visual studio 2015\Projects\ContactApp\ContactApp\obj\Debug\ContactApp.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\ContactApp\ContactApp\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\documents\visual studio 2015\Projects\ContactApp\ContactApp\bin\System.Web.Http.dll
+C:\Users\PC\documents\visual studio 2015\Projects\ContactApp\ContactApp\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\documents\visual studio 2015\Projects\ContactApp\ContactApp\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\documents\visual studio 2015\Projects\ContactApp\ContactApp\bin\System.Web.Http.xml
+C:\Users\PC\documents\visual studio 2015\Projects\ContactApp\ContactApp\bin\System.Web.Http.WebHost.xml
 C:\Users\PC\documents\visual studio 2015\Projects\ContactApp\ContactApp\obj\Debug\ContactApp.csprojResolveAssemblyReference.cache
